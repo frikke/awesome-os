@@ -121,7 +121,6 @@ The goal is to collect all kinds of different open source OSs so people can stud
 * [pranaOS](https://github.com/pranaOS/pranaOS) - A unix operating system written from scratch in c / c++
 * [quickOS](evrestrgb.github.io) - An OS made by an independant developer, still in development, like MS-DOS, but in qbasic. It's MADE with qb64.
 * [r3](https://github.com/Narasimha1997/r3) - A hobby x86_64 Operating System kernel written in Rust -- with minimal functionalities
-* [ravynOS](https://github.com/ravynsoft/ravynos) - BSD-based OS project that aims to provide an experience like and some compatibility with macOS (formerly known as airyxOS)
 * [skiftOS](https://skiftos.org/), [GitHub](https://github.com/skiftOS/skift) - A simple, handmade, operating system with a graphical user interface.
 * [soso](https://github.com/ozkl/soso) - Simple unix-like operating system written in Nasm assembly and mostly in C
 * [tilck](https://github.com/vvaltchev/tilck) - A Tiny Linux-Compatible Kernel.
